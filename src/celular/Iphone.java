@@ -10,7 +10,7 @@ public class Iphone extends SistemaOperacional {
 		Iphone ip = new Iphone();
 		
 		
-		SistemaOperacional so = ip;
+		
 		
 		
 		ip.adcionarNovaAba();
